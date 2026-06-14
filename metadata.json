@@ -1,0 +1,8 @@
+{
+  "name": "Pink Velvet Nails",
+  "description": "An ultra-feminine, glamorous, Y2K-inspired nail salon website with animated sparkles, glitter cursor, interactive scheduling, and retro-luxurious styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
